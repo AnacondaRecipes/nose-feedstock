@@ -17,7 +17,7 @@ build:
     - nosetests = nose:run_exit
 
 requirements:
-  build:
+  host:
     - python
     - setuptools
   run:
